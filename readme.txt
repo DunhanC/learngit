@@ -1,4 +1,4 @@
 Git is a free software distributed version control system
-Git is free software
+Git is a free software
 Git append
 Git will be facing a bug
